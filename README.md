@@ -94,7 +94,6 @@
 </p>
 
 <p align="center">
-  <sub>Демонстрационные данные · WebP без потерь</sub>
 </p>
 
 <p align="center">
