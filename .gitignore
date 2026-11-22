@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Editor settings
+.vscode/
+.idea/
+
+# Dependencies and build output (not used in this docs-only repository)
+node_modules/
+dist/
+build/
+.next/
